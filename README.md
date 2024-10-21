@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/OleksandrOsyka/bento-grid-main)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://oleksandrosyka.github.io/bento-grid-main/)
 
 ## Author
 
